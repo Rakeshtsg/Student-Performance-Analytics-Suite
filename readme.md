@@ -1,6 +1,3 @@
-
-
-```markdown
 # 🎓 Student Nexus: Enterprise Performance Analytics Suite
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
@@ -56,8 +53,6 @@ graph TD
     F -->|Predictions| G[Intervention System]
     F -->|Shapley Values| H[Explainable AI]
     G -->|Study Plan| I((End User))
-
-```
 
 ---
 
