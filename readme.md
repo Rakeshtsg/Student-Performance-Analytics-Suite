@@ -42,7 +42,6 @@ Beyond prediction, it features an **Intervention Engine** that prescribes exact 
 ---
 
 ## 🛠️ Technical Architecture
-
 ```mermaid
 graph TD
     A[Data Factory] -->|Raw CSV| B(Preprocessing Pipeline)
