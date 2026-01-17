@@ -161,7 +161,8 @@ This project is licensed under the MIT License - see the [LICENSE](https://www.g
 
 ```
 
-```<img width="1200" height="1000" alt="02_correlation_heatmap" src="https://github.com/user-attachments/assets/4cfc9f11-52b6-406c-b3ef-40a73ad1ff3b" />
+```
+<img width="1200" height="1000" alt="02_correlation_heatmap" src="https://github.com/user-attachments/assets/4cfc9f11-52b6-406c-b3ef-40a73ad1ff3b" />
 <img width="1200" height="800" alt="04_feature_importance" src="https://github.com/user-attachments/assets/ab2d99f6-717b-4811-98f5-d915dea307fb" />
 <img width="1000" height="500" alt="05_dnn_loss" src="https://github.com/user-attachments/assets/99702eef-fb51-4f69-8caa-5f7833e16e48" />
 <img width="1000" height="600" alt="06_actual_vs_predicted" src="https://github.com/user-attachments/assets/a6213f26-aa71-4c98-a58e-270388251a76" />
